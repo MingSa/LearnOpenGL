@@ -1,0 +1,4 @@
+﻿  glad.c
+  main.cpp
+C:\Users\Cv\Desktop\LearnOpenGL\OpenGLProject\OpenGLProject\shader.h(43,34): warning C4101: “e”: 未引用的局部变量
+  OpenGLProject.vcxproj -> C:\Users\Cv\Desktop\LearnOpenGL\OpenGLProject\x64\Debug\OpenGLProject.exe
